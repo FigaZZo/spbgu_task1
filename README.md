@@ -1,6 +1,6 @@
 # spbgu_task1
-Оптимизированный режим
+Оптимизированный режим  
 python3 solution.py input.txt output.txt --mode ext --memory-limit-mb 900
 
-Обычный режим
+Обычный режим  
 python3 solution.py input.txt output.txt
